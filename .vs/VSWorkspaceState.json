@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Laravel_CRUD_app",
+    "\\Laravel_CRUD_app\\app",
+    "\\Laravel_CRUD_app\\app\\Http",
+    "\\Laravel_CRUD_app\\app\\Http\\Controllers",
+    "\\Laravel_CRUD_app\\app\\Models",
+    "\\Laravel_CRUD_app\\database",
+    "\\Laravel_CRUD_app\\database\\migrations",
+    "\\Laravel_CRUD_app\\routes"
+  ],
+  "SelectedNode": "\\Laravel_CRUD_app\\app\\Http\\Controllers\\StudentController.php",
+  "PreviewInSolutionExplorer": false
+}
